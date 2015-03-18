@@ -1,14 +1,12 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: 1351031-1351040-1351059.aux
-White space in argument---line 6 of file 1351031-1351040-1351059.aux
- : \citation{Google
- :                  Online Shopper Study}
-I'm skipping whatever remains of this command
 The style file: IEEEtran.bst
 Database file #1: Bibtex.bib
 Warning--entry type for "VietnamMobile2014" isn't style-file defined
 --line 16 of file Bibtex.bib
 Warning--entry type for "VietnamMobile2013" isn't style-file defined
 --line 25 of file Bibtex.bib
+Warning--entry type for "GoogleStudy2013" isn't style-file defined
+--line 33 of file Bibtex.bib
 Warning--entry type for "vecita" isn't style-file defined
 --line 39 of file Bibtex.bib
 Warning--entry type for "btb2015" isn't style-file defined
@@ -40,4 +38,4 @@ Warning--empty year in ec2010Gary
 Warning--empty author and editor in chicagomanual
 
 Done.
-(There were 3 error messages)
+(There were 2 error messages)
