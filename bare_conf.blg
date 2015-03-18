@@ -1,0 +1,43 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: bare_conf.aux
+White space in argument---line 6 of file bare_conf.aux
+ : \citation{Google
+ :                  Online Shopper Study}
+I'm skipping whatever remains of this command
+The style file: IEEEtran.bst
+Database file #1: Bibtex.bib
+Warning--entry type for "VietnamMobile2014" isn't style-file defined
+--line 16 of file Bibtex.bib
+Warning--entry type for "VietnamMobile2013" isn't style-file defined
+--line 25 of file Bibtex.bib
+Warning--entry type for "vecita" isn't style-file defined
+--line 39 of file Bibtex.bib
+Warning--entry type for "btb2015" isn't style-file defined
+--line 61 of file Bibtex.bib
+Warning--entry type for "ectomobile2015" isn't style-file defined
+--line 69 of file Bibtex.bib
+Repeated entry---line 96 of file Bibtex.bib
+ : @report{ectomobile2015
+ :                       ,
+I'm skipping whatever remains of this entry
+Warning--entry type for "cod2015" isn't style-file defined
+--line 102 of file Bibtex.bib
+Warning--entry type for "directdebit2015" isn't style-file defined
+--line 108 of file Bibtex.bib
+Warning--entry type for "invoice2015" isn't style-file defined
+--line 114 of file Bibtex.bib
+I was expecting a `,' or a `}'---line 125 of file Bibtex.bib
+ : 
+ : year = {2010},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+-- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty author and editor in InfoAndData2014
+Warning--empty author and editor in readingEcommerce2009
+Warning--missing publisher in ec2010Gary
+Warning--empty year in ec2010Gary
+Warning--empty author and editor in chicagomanual
+
+Done.
+(There were 3 error messages)
