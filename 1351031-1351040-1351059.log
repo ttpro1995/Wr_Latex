@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  20 MAR 2015 14:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  20 MAR 2015 15:21
 entering extended mode
 **1351031-1351040-1351059.tex
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.tex"
@@ -119,9 +119,18 @@ Missing character: There is no ô in font ptmr7t!
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 591.
+(Font)              <7> on input line 560.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 591.
+(Font)              <5> on input line 560.
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ú in font ptmr7t!
+Missing character: There is no ‚ in font ptmr7t!
+Missing character: There is no Ä in font ptmr7t!
+Missing character: There is no ù in font ptmr7t!
+
+Underfull \vbox (badness 7486) has occurred while \output is active []
+
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ú in font ptmr7t!
@@ -152,13 +161,8 @@ Missing character: There is no ú in font ptmr7t!
 Missing character: There is no ‚ in font ptmr7t!
 Missing character: There is no Ä in font ptmr7t!
 Missing character: There is no ù in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ú in font ptmr7t!
-Missing character: There is no ‚ in font ptmr7t!
-Missing character: There is no Ä in font ptmr7t!
-Missing character: There is no ù in font ptmr7t!
- ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl" [2])
+
+("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl" [2])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -176,18 +180,18 @@ Before submitting the final camera ready copy, remember to:
 Here is how much of TeX's memory you used:
  948 strings out of 493921
  16980 string characters out of 3147285
- 74244 words of memory out of 3000000
+ 73244 words of memory out of 3000000
  4307 multiletter control sequences out of 15000+200000
  34143 words of font info for 63 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 26i,8n,19p,838b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 26i,8n,19p,1170b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX
  2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 1351031-1351040-1351059.pdf (3 pages, 73828 bytes).
+Output written on 1351031-1351040-1351059.pdf (3 pages, 76900 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
