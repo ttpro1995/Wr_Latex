@@ -101,21 +101,19 @@ K.~Vimaladevi and M.~Dhanabkaym, ``A study on the effects of online consumer
 N.~I.~M. Dawot, J.~L. Song, and H.~B. Hashim, ``Moving from b2c to social
   commerce: Case study zalora. com.''
 
-\bibitem{ecimpactspolicy}
-J.~G. Coppel, ``E-commerce: Impacts and policy challenges.''
-
 \bibitem{zhou2013social}
 L.~Zhou, P.~Zhang, and H.-D. Zimmermann, ``Social commerce research: An
   integrated view,'' \emph{Electronic commerce research and applications},
   vol.~12, no.~2, pp. 61--68, 2013.
 
-\bibitem{corbitt2003trust}
-B.~J. Corbitt, T.~Thanasankit, and H.~Yi, ``Trust and e-commerce: a study of
-  consumer perceptions,'' \emph{Electronic commerce research and applications},
-  vol.~2, no.~3, pp. 203--215, 2003.
+\bibitem{sarwar2002recommender}
+B.~M. Sarwar, G.~Karypis, J.~Konstan, and J.~Riedl, ``Recommender systems for
+  large-scale e-commerce: Scalable neighborhood formation using clustering,''
+  in \emph{Proceedings of the fifth international conference on computer and
+  information technology}, vol.~1.\hskip 1em plus 0.5em minus 0.4em\relax
+  Citeseer, 2002.
 
-\bibitem{frieden2006commerce}
-J.~D. Frieden and S.~P. Roche, ``E-commerce: Legal issues of the online
-  retailer in virginia,'' \emph{Rich. JL \& Tech.}, vol.~13, p.~1, 2006.
+\bibitem{ecimpactspolicy}
+J.~G. Coppel, ``E-commerce: Impacts and policy challenges.''
 
 \end{thebibliography}
