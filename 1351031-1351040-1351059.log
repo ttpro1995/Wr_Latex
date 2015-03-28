@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  28 MAR 2015 18:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  28 MAR 2015 18:55
 entering extended mode
 **1351031-1351040-1351059.tex
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.tex"
@@ -204,20 +204,20 @@ File: ./ecfreq.png Graphic file (type png)
 <use ./ecfreq.png>
 Package pdftex.def Info: ./ecfreq.png used on input line 650.
 (pdftex.def)             Requested size: 176.39923pt x 82.10245pt.
- [3 <D:/APCS/wr/WR LaTex/genderofconsumers.png> <D:/APCS/wr/WR LaTex/age.png> <
-D:/APCS/wr/WR LaTex/ecfreq.png>]
-<./ecactivities.png, id=23, 672.5928pt x 305.943pt>
+ <./ecactivities.png, id=17, 672.5928pt x 305.943pt>
 File: ./ecactivities.png Graphic file (type png)
- <use ./ecactivities.png>
+
+<use ./ecactivities.png>
 Package pdftex.def Info: ./ecactivities.png used on input line 660.
 (pdftex.def)             Requested size: 176.39923pt x 80.23888pt.
-
-<./satisfaction.png, id=24, 533.3526pt x 243.309pt>
+ <./satisfaction.png, id=18, 533.3526pt x 243.309pt>
 File: ./satisfaction.png Graphic file (type png)
- <use ./satisfaction.png>
+
+<use ./satisfaction.png>
 Package pdftex.def Info: ./satisfaction.png used on input line 671.
 (pdftex.def)             Requested size: 176.39923pt x 80.47041pt.
-
+ [3 <D:/APCS/wr/WR LaTex/genderofconsumers.png> <D:/APCS/wr/WR LaTex/age.png> <
+D:/APCS/wr/WR LaTex/ecfreq.png>]
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl")
 
 ** Conference Paper **
@@ -233,20 +233,20 @@ Before submitting the final camera ready copy, remember to:
 [4 <D:/APCS/wr/WR LaTex/ecactivities.png> <D:/APCS/wr/WR LaTex/satisfaction.png
 >] ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.aux") ) 
 Here is how much of TeX's memory you used:
- 1877 strings out of 493921
- 29703 string characters out of 3147285
- 89365 words of memory out of 3000000
- 5197 multiletter control sequences out of 15000+200000
+ 1881 strings out of 493921
+ 29742 string characters out of 3147285
+ 89401 words of memory out of 3000000
+ 5201 multiletter control sequences out of 15000+200000
  35250 words of font info for 64 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,8n,19p,1304b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,19p,1163b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTe
 X 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
 /utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 1351031-1351040-1351059.pdf (4 pages, 283096 bytes).
+Output written on 1351031-1351040-1351059.pdf (4 pages, 283223 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
