@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  28 MAR 2015 18:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  1 APR 2015 00:37
 entering extended mode
 **1351031-1351040-1351059.tex
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.tex"
@@ -166,9 +166,9 @@ Missing character: There is no ™ in font ptmr7t!
 
 ]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 562.
+(Font)              <7> on input line 568.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 562.
+(Font)              <5> on input line 568.
 Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no œ in font ptmr7t!
@@ -190,34 +190,34 @@ Missing character: There is no “ in font ptmr7t!
 File: ./genderofconsumers.png Graphic file (type png)
 
 <use ./genderofconsumers.png>
-Package pdftex.def Info: ./genderofconsumers.png used on input line 631.
+Package pdftex.def Info: ./genderofconsumers.png used on input line 637.
 (pdftex.def)             Requested size: 176.39923pt x 208.84189pt.
  <./age.png, id=15, 172.0026pt x 219.7008pt>
 File: ./age.png Graphic file (type png)
 
 <use ./age.png>
-Package pdftex.def Info: ./age.png used on input line 638.
+Package pdftex.def Info: ./age.png used on input line 644.
 (pdftex.def)             Requested size: 176.39923pt x 225.3188pt.
  <./ecfreq.png, id=16, 390.258pt x 181.6386pt>
 File: ./ecfreq.png Graphic file (type png)
 
 <use ./ecfreq.png>
-Package pdftex.def Info: ./ecfreq.png used on input line 650.
+Package pdftex.def Info: ./ecfreq.png used on input line 656.
 (pdftex.def)             Requested size: 176.39923pt x 82.10245pt.
  <./ecactivities.png, id=17, 672.5928pt x 305.943pt>
 File: ./ecactivities.png Graphic file (type png)
 
 <use ./ecactivities.png>
-Package pdftex.def Info: ./ecactivities.png used on input line 660.
+Package pdftex.def Info: ./ecactivities.png used on input line 666.
 (pdftex.def)             Requested size: 176.39923pt x 80.23888pt.
- <./satisfaction.png, id=18, 533.3526pt x 243.309pt>
-File: ./satisfaction.png Graphic file (type png)
-
-<use ./satisfaction.png>
-Package pdftex.def Info: ./satisfaction.png used on input line 671.
-(pdftex.def)             Requested size: 176.39923pt x 80.47041pt.
  [3 <D:/APCS/wr/WR LaTex/genderofconsumers.png> <D:/APCS/wr/WR LaTex/age.png> <
 D:/APCS/wr/WR LaTex/ecfreq.png>]
+<./satisfaction.png, id=24, 533.3526pt x 243.309pt>
+File: ./satisfaction.png Graphic file (type png)
+ <use ./satisfaction.png>
+Package pdftex.def Info: ./satisfaction.png used on input line 677.
+(pdftex.def)             Requested size: 176.39923pt x 80.47041pt.
+
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl")
 
 ** Conference Paper **
@@ -246,7 +246,7 @@ public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
 /utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiK
 TeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 1351031-1351040-1351059.pdf (4 pages, 283223 bytes).
+Output written on 1351031-1351040-1351059.pdf (4 pages, 276138 bytes).
 PDF statistics:
  47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
