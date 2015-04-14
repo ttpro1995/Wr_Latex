@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  10 APR 2015 23:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  15 APR 2015 00:37
 entering extended mode
 **1351031-1351040-1351059.tex
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.tex"
@@ -186,54 +186,33 @@ Missing character: There is no â in font ptmr7t!
 Missing character: There is no € in font ptmr7t!
 Missing character: There is no “ in font ptmr7t!
 
-<./genderofconsumers.png, id=13, 172.9662pt x 204.765pt>
-File: ./genderofconsumers.png Graphic file (type png)
+<./agegender.png, id=13, 173.448pt x 110.814pt>
+File: ./agegender.png Graphic file (type png)
+ <use ./agegender.png>
+Package pdftex.def Info: ./agegender.png used on input line 639.
+(pdftex.def)             Requested size: 176.39923pt x 112.7058pt.
 
-<use ./genderofconsumers.png>
-Package pdftex.def Info: ./genderofconsumers.png used on input line 637.
-(pdftex.def)             Requested size: 176.39923pt x 208.84189pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./age.png, id=15, 172.0026pt x 219.7008pt>
-File: ./age.png Graphic file (type png)
- <use ./age.png>
-Package pdftex.def Info: ./age.png used on input line 644.
-(pdftex.def)             Requested size: 176.39923pt x 225.3188pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./ecfreq.png, id=16, 390.258pt x 181.6386pt>
+<./ecfreq.png, id=15, 390.258pt x 181.6386pt>
 File: ./ecfreq.png Graphic file (type png)
  <use ./ecfreq.png>
-Package pdftex.def Info: ./ecfreq.png used on input line 656.
+Package pdftex.def Info: ./ecfreq.png used on input line 652.
 (pdftex.def)             Requested size: 176.39923pt x 82.10245pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<./ecactivities.png, id=17, 804.00375pt x 436.63126pt>
+<./ecactivities.png, id=16, 804.00375pt x 436.63126pt>
 File: ./ecactivities.png Graphic file (type png)
 
 <use ./ecactivities.png>
-Package pdftex.def Info: ./ecactivities.png used on input line 666.
+Package pdftex.def Info: ./ecactivities.png used on input line 662.
 (pdftex.def)             Requested size: 361.19843pt x 196.15578pt.
- <./satisfaction.png, id=18, 372.64218pt x 216.81pt>
+ <./satisfaction.png, id=17, 372.64218pt x 216.81pt>
 File: ./satisfaction.png Graphic file (type png)
 
 <use ./satisfaction.png>
-Package pdftex.def Info: ./satisfaction.png used on input line 677.
+Package pdftex.def Info: ./satisfaction.png used on input line 673.
 (pdftex.def)             Requested size: 176.39923pt x 102.63182pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3 <D:/APCS/wr/WR LaTex/genderofconsumers.png> <D:/APCS/wr/WR LaTex/age.png>]
-("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl" [4 <D:/APCS/wr/WR LaTex/ecac
-tivities.png> <D:/APCS/wr/WR LaTex/ecfreq.png> <D:/APCS/wr/WR LaTex/satisfactio
-n.png>])
+ [3 <D:/APCS/wr/WR LaTex/agegender.png> <D:/APCS/wr/WR LaTex/ecfreq.png> <D:/AP
+CS/wr/WR LaTex/satisfaction.png>]
+("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl")
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -245,26 +224,25 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5
-
-] ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.aux") ) 
+[4 <D:/APCS/wr/WR LaTex/ecactivities.png>]
+("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.aux") ) 
 Here is how much of TeX's memory you used:
- 1881 strings out of 493921
- 29742 string characters out of 3147285
- 89401 words of memory out of 3000000
- 5201 multiletter control sequences out of 15000+200000
+ 1876 strings out of 493921
+ 29622 string characters out of 3147285
+ 89397 words of memory out of 3000000
+ 5197 multiletter control sequences out of 15000+200000
  35250 words of font info for 64 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,8n,19p,1163b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX
- 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
-utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/P
-rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 1351031-1351040-1351059.pdf (5 pages, 222558 bytes).
+ 27i,8n,19p,1160b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2
+.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/ut
+mb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on 1351031-1351040-1351059.pdf (4 pages, 258798 bytes).
 PDF statistics:
- 50 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

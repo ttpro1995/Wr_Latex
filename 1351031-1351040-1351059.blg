@@ -28,6 +28,13 @@ I was expecting a `,' or a `}'---line 125 of file Bibtex.bib
  : year = {2010},
 (Error may have been on previous line)
 I'm skipping whatever remains of this entry
+Warning--entry type for "defmobiec" isn't style-file defined
+--line 235 of file Bibtex.bib
+I was expecting a `,' or a `}'---line 239 of file Bibtex.bib
+ : 
+ : author={Kevin Duffey}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
 -- IEEEtran.bst version 1.12 (2007/01/11) by Michael Shell.
 -- http://www.michaelshell.org/tex/ieeetran/bibtex/
 -- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
@@ -42,4 +49,4 @@ Warning--empty journal in ecimpactspolicy
 Warning--empty year in ecimpactspolicy
 
 Done.
-(There were 2 error messages)
+(There were 3 error messages)
