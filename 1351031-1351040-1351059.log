@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  9 MAY 2015 15:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.3.11)  12 MAY 2015 00:10
 entering extended mode
 **1351031-1351040-1351059.tex
 ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.tex"
@@ -157,11 +157,7 @@ LaTeX Font Info:    ... okay on input line 352.
 \MPnumerator=\count97
 \makeMPintoPDFobject=\count98
 \everyMPtoPDFconversion=\toks17
-)
-Missing character: There is no â in font ptmr7t!
-Missing character: There is no € in font ptmr7t!
-Missing character: There is no ™ in font ptmr7t!
- [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
+) [1{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}
 
 
 ]
@@ -198,11 +194,11 @@ Package pdftex.def Info: ./agegender.png used on input line 637.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<./ecfreq.png, id=15, 390.258pt x 181.6386pt>
+<./ecfreq.png, id=15, 458.46281pt x 334.24875pt>
 File: ./ecfreq.png Graphic file (type png)
  <use ./ecfreq.png>
 Package pdftex.def Info: ./ecfreq.png used on input line 650.
-(pdftex.def)             Requested size: 176.39923pt x 82.10245pt.
+(pdftex.def)             Requested size: 176.39923pt x 128.6071pt.
 
 <./ecactivities.png, id=16, 804.00375pt x 436.63126pt>
 File: ./ecactivities.png Graphic file (type png)
@@ -220,9 +216,9 @@ Package pdftex.def Info: ./satisfaction.png used on input line 671.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <D:/APCS/wr/WR LaTex/agegender.png> <D:/APCS/wr/WR LaTex/ecfreq.png>]
-("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl" [4 <D:/APCS/wr/WR LaTex/ecac
-tivities.png> <D:/APCS/wr/WR LaTex/satisfaction.png>])
+[3 <D:/APCS/wr/WR LaTex/agegender.png> <D:/APCS/wr/WR LaTex/ecfreq.png (PNG cop
+y)>] ("D:\APCS\wr\WR LaTex\1351031-1351040-1351059.bbl" [4 <D:/APCS/wr/WR LaTex
+/ecactivities.png> <D:/APCS/wr/WR LaTex/satisfaction.png>])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -240,20 +236,20 @@ Before submitting the final camera ready copy, remember to:
 Here is how much of TeX's memory you used:
  1876 strings out of 493921
  29622 string characters out of 3147285
- 88397 words of memory out of 3000000
+ 87397 words of memory out of 3000000
  5197 multiletter control sequences out of 15000+200000
  35250 words of font info for 64 fonts, out of 3000000 for 9000
  844 hyphenation exceptions out of 8191
- 27i,8n,19p,1160b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,8n,19p,1176b,242s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX
  2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/
 utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on 1351031-1351040-1351059.pdf (5 pages, 236387 bytes).
+Output written on 1351031-1351040-1351059.pdf (5 pages, 212429 bytes).
 PDF statistics:
- 48 PDF objects out of 1000 (max. 8388607)
+ 47 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
